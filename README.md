@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yubin-j
-- 👀 I’m interested in javascript, react, node.js, go lang, algorithms
-- 🌱 I’m currently learning javascript, react, node.js, go lang
+- 👀 I’m interested in node.js, go, algorithms
+- 🌱 I’m currently learning javascript, node.js, go
 - 📫 How to reach me developersurfer@gmail.com
 
 <!---
