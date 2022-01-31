@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yubin-j
-- 💻 I’m currently using node.js, express, mysql
-- 👀 I’m interested in node.js, go, algorithms
-- 🌱 I’m currently learning go, algorithms
+- 💻 I’m currently using typescript, graphQl, nexus, prisma
+- 👀 I’m interested in algorithms
+- 🌱 I’m currently learning algorithms
 - 📫 How to reach me developersurfer@gmail.com
 
 <!---
